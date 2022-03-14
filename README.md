@@ -1,4 +1,5 @@
 # Data Science Portfolio Projects
+Thanks for visiting the Data Science Portfolio Project page of Gregory Day.  Below you will find a list of projects that I have been working on to demonstrate my knowledge and capabilities.  Thanks for visiting.  I look forward to any feedback.
 
 ## [Predicting Cancer Mortality Rates for US Counties](https://github.com/uscgregory/Regression/blob/main/README.md)
 
