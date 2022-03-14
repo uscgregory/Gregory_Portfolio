@@ -9,7 +9,7 @@ The goal of this project is to determine cancer mortality rates by US county usi
 ![Regression Charts](/assets/Regression.png)
 
 
-##  [Classification - Predicting In-Vehicle Coupon Acceptance/Rejection Rate]()
+##  [Classification - Predicting Coupon Acceptance/Rejection Rate]()
 
 The goal of this binary classification project is to predict whether or not a person will accept a coupon that is recommended to them in different driving scenarios.  This survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver.  You can view the project by clicking [here.]()
 
