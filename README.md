@@ -4,8 +4,6 @@ Thanks for visiting my page.  Below you will find a sample of code and projects 
 ## [Python Code Samples](https://github.com/uscgregory/python/blob/main/README.md)
 
 
-### []
-
 ## SQL Samples
 
 ## Data Science Portfolio Projects
