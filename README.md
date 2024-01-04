@@ -1,7 +1,7 @@
 # Gregory Day's Code and Project Samples
 Thanks for visiting my page.  Below you will find a sample of code and projects that I have worked on in the past. These are meant to demonstrate how I have been able to apply some of my knowledge, skills, and abilities in the past.  I look forward to any feedback.
 
-## [Python Code Samples](https://github.com/uscgregory/python/blob/main/README.md)
+## [Python Scripting Samples](https://github.com/uscgregory/python/blob/main/README.md)
 
 ## Data Science Portfolio Projects
 ### [Regression - Predicting Cancer Mortality Rates for US Counties](https://github.com/uscgregory/Regression/blob/main/README.md)
