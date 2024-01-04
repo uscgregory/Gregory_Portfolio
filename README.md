@@ -3,9 +3,6 @@ Thanks for visiting my page.  Below you will find a sample of code and projects 
 
 ## [Python Code Samples](https://github.com/uscgregory/python/blob/main/README.md)
 
-
-## SQL Samples
-
 ## Data Science Portfolio Projects
 ### [Regression - Predicting Cancer Mortality Rates for US Counties](https://github.com/uscgregory/Regression/blob/main/README.md)
 
