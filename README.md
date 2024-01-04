@@ -9,10 +9,6 @@ This script runs within the Airplane.dev platform (hence the @airplane decorator
 
 ## SQL Samples
 
-## Other Samples
-
-## Other Things To Know About Me
-
 ## Data Science Portfolio Projects
 ### [Regression - Predicting Cancer Mortality Rates for US Counties](https://github.com/uscgregory/Regression/blob/main/README.md)
 
